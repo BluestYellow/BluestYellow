@@ -1,16 +1,16 @@
-## Hi there 👋
+### Olá 👋, eu sou o Eduardo!
 
-<!--
-**BluestYellow/BluestYellow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciências da Computação e Desenvolvedor Backend em formação. O que me move na tecnologia é o "puzzle": a busca por aquela engrenagem que, ao se encaixar, faz um problema complexo simplesmente funcionar.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou fazendo agora:
+
+Pra me preparar nessa missão, tô focado no **[Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer)** (Coursera). Inicialmente, tô construindo minha base sobre como a web realmente opera, dominando o protocolo HTTP e seus métodos.
+
+* 🌱 Foco principal de estudo: **Python, Django e SQL**.
+* 💼 Buscando ativamente oportunidades de **Estágio** na área de Backend.
+
+### 📫 Como me encontrar:
+
+* 🔗 Conecte-se comigo no **[LinkedIn](https://www.linkedin.com/in/eduardo-alves-38802b325)**
